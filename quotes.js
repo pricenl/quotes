@@ -20,5 +20,9 @@
             "quote": "That code should be thrown on the floor, set on fire, and jumped up and down on!",
             "by": "Bornstein"
         } 
+{
+            "quote": "You can tune a piano but you can't tune a fish!",
+            "by": "Nancy Price"
+        } 
     ]
 }
